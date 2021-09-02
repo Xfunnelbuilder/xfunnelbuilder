@@ -3,27 +3,6 @@
 <script defer src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha256-pTxD+DSzIwmwhOqTFN+DB+nHjO4iAsbgfyFq5K5bcE0=" crossorigin="anonymous"></script>
 <link href="https://use.fontawesome.com/releases/v5.0.1/css/all.css" rel="stylesheet">
 <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
-
-<svg class="svg" viewbox="0 0 1264 587" preserveAspectRatio="none">
-<defs>
-<clipPath id="my-clip-path1" clipPathUnits="objectBoundingBox" >
- <path transform="scale(0.00079113924050632911392405063291139,0.002)" d="M0,0 L0, 410.9 Q632, 587 1264, 410.9 L1264, 0 Z"></path>
-    </clipPath>
-<clipPath id="my-clip-path2" clipPathUnits="objectBoundingBox" >
- <path transform="scale(0.00079113924050632911392405063291139,0.002)" d="M0,0 L0, 410.9 Q632, 587 1264, 410.9 L1264, 0 Z"></path>
-    </clipPath>
-<clipPath id="my-clip-path3" clipPathUnits="objectBoundingBox" >
- <path transform="scale(0.00079113924050632911392405063291139,0.002)" d="M0,0 L0, 410.9 Q632, 587 1264, 410.9 L1264, 0 Z"></path>
-    </clipPath>
-<clipPath id="my-clip-path4" clipPathUnits="objectBoundingBox" >
- <path transform="scale(0.00079113924050632911392405063291139,0.002)" d="M0,0 L0, 410.9 Q632, 587 1264, 410.9 L1264, 0 Z"></path>
-    </clipPath>
-<clipPath id="my-clip-path5" clipPathUnits="objectBoundingBox" >
- <path transform="scale(0.00079113924050632911392405063291139,0.002)" d="M0,0 L0, 410.9 Q632, 587 1264, 410.9 L1264, 0 Z"></path>
-    </clipPath>
-  </defs>
-</svg>
-
 <script>
   $(document).ready(function(){
       $("[data-title='carousel-header1'], .carousel-header1").after("<div class='owl-carousel mycarousel1 owl-theme'></div>");
@@ -56,3 +35,24 @@ $('[data-title="panel"], .panel').hide(); // hide panel
     }
   });
        </script>
+
+
+<svg class="svg" viewbox="0 0 1264 587" preserveAspectRatio="none">
+<defs>
+<clipPath id="my-clip-path1" clipPathUnits="objectBoundingBox" >
+ <path transform="scale(0.00079113924050632911392405063291139,0.002)" d="M0,0 L0, 410.9 Q632, 587 1264, 410.9 L1264, 0 Z"></path>
+    </clipPath>
+<clipPath id="my-clip-path2" clipPathUnits="objectBoundingBox" >
+ <path transform="scale(0.00079113924050632911392405063291139,0.002)" d="M0,0 L0, 410.9 Q632, 587 1264, 410.9 L1264, 0 Z"></path>
+    </clipPath>
+<clipPath id="my-clip-path3" clipPathUnits="objectBoundingBox" >
+ <path transform="scale(0.00079113924050632911392405063291139,0.002)" d="M0,0 L0, 410.9 Q632, 587 1264, 410.9 L1264, 0 Z"></path>
+    </clipPath>
+<clipPath id="my-clip-path4" clipPathUnits="objectBoundingBox" >
+ <path transform="scale(0.00079113924050632911392405063291139,0.002)" d="M0,0 L0, 410.9 Q632, 587 1264, 410.9 L1264, 0 Z"></path>
+    </clipPath>
+<clipPath id="my-clip-path5" clipPathUnits="objectBoundingBox" >
+ <path transform="scale(0.00079113924050632911392405063291139,0.002)" d="M0,0 L0, 410.9 Q632, 587 1264, 410.9 L1264, 0 Z"></path>
+    </clipPath>
+  </defs>
+</svg>
