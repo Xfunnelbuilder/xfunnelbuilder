@@ -41,7 +41,7 @@
 }
 .owl-carousel .owl-item img{
   display:block;
-  width: inherit;
+  margin: auto;
 }
 .owl-carousel .owl-dots.disabled,.owl-carousel .owl-nav.disabled{
   display:block;
