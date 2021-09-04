@@ -44,7 +44,7 @@
   width: inherit;
 }
 .owl-carousel .owl-dots.disabled,.owl-carousel .owl-nav.disabled{
-  display:unset;
+  display:block;
 }
 .no-js .owl-carousel,.owl-carousel.owl-loaded{
   display:block
