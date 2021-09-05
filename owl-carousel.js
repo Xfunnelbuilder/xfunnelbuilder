@@ -1,7 +1,7 @@
  $(document).ready(function(){
       $("[data-title='carousel-header1'], .carousel-header1").after("<div class='owl-carousel mycarousel1 owl-theme'></div>");
       $("[data-title='carousel-header2'], .carousel-header2").after("<div class='owl-carousel mycarousel2 owl-theme'></div>");
-      $("[data-title='carousel-header3'], .carousel-header3").after("<div class='owl-carousel mycarousel2 owl-theme'></div>");
+      $("[data-title='carousel-header3'], .carousel-header3").after("<div class='owl-carousel mycarousel3 owl-theme'></div>");
       $("[data-title='carousel1']").addClass("owl-carousel mycarousel1 owl-theme");
       $("[data-title='carousel2']").addClass("owl-carousel mycarousel2 owl-theme");
       $("[data-title='carousel3']").addClass("owl-carousel mycarousel3 owl-theme");
