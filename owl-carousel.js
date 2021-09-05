@@ -12,13 +12,4 @@
       $(".mycarousel2").append($(".item2"));
       $(".mycarousel3").append($(".item3"));	
 });
-$(window).load(function(){
-$('.owl-carousel').owlCarousel({
-    loop:true,
-    margin:10,
-    nav:true,
-    autoplay:true,
-    autoplaySpeed: 100,
-    navText :['<p class="eliconelement elMargin0 elBGStyle0 hsTextShadow0" style="padding: 0;margin: 0;color: inherit;text-align: center;font-size: 55px;line-height: 1em;display: block;"> <i class=" fas fa-angle-left"></i> </p>','<p class="eliconelement elMargin0 elBGStyle0 hsTextShadow0" style="padding: 0;margin: 0;color: inherit;text-align: center;font-size: 55px;line-height: 1em;display: block;"> <i class=" fas fa-angle-right"></i> </p>'],
-});
-});
+
