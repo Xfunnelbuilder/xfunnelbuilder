@@ -1,0 +1,10 @@
+[data-title='accordion'] .elHeadline:before, .accordion h2:before{
+content: '\f105';
+margin-right: 10px;
+font-weight: 900;
+font-family: 'Font Awesome 5 Free';
+}
+
+.active .elHeadline:before, .active h2:before{
+content:'\f107';
+}
